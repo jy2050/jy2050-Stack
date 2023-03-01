@@ -45,7 +45,7 @@ public class Lab {
 
 
     /**
-     * Pop the value from the top of the deque and return that value.
+     * Pop the value from the top of the deque and return that value.df
      * (this removes the most recently-pushed value)
      * @param stack A Deque of Strings.
      * @return the value popped from the top of the deque.
